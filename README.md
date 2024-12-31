@@ -7,4 +7,4 @@ ornaments are clickable and display cool messages
 
 santa might visit in his sleigh! 
 
-![alt preview](preview.png)
+![alt preview](https://github.com/incognitobot-official/winter-boba-drop/raw/main/preview.png)

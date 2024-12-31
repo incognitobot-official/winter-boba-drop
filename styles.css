@@ -6,6 +6,12 @@ body {
     height: 100vh;
 }
 
+h1{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
 .tree-container {
     position: relative;
     height: 100vh;
@@ -207,7 +213,7 @@ body {
 
 .santa-container { 
     position: absolute;
-     top: 0%; 
+     top: 5%; 
     left: -50%; 
     rotate: 20deg;
     z-index: 100;
@@ -222,6 +228,6 @@ body {
 @keyframes Flight {
     0% { rotate: 20deg;  }
     50% {rotate: 15deg;}
-    67% {left: 50%; top: 5%; rotate: 10deg;}
+    67% {left: 50%; top: 15%; rotate: 10deg;}
     100% { left: 100%; rotate:0deg; top: 0%; }
 }
